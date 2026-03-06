@@ -1,0 +1,18 @@
+# Сборки Xcode
+build/
+DerivedData/
+
+# Пользовательские настройки Xcode (у каждого свои)
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
